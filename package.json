@@ -1,8 +1,9 @@
 {
-  "name": "validator",
+  "name": "dot-validator",
   "version": "1.0.0",
   "description": "now no need to write code for all validatin just install this package and in one line you can validate all the fields with suitable and personlized error ma=esaage if any error.",
   "main": "index.js",
+  "keys": "validator",
   "scripts": {
     "start": "node index.js"
   },

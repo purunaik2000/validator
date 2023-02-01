@@ -2,7 +2,7 @@
 
 ## To install this package just paste this command and press enter
 ```
-npm i validator
+npm i dot-validator
 ```
 
 ## The object you want to validate will be like this
@@ -55,4 +55,4 @@ let data = {
 * If all the conditions are fullfield you will get boolean True in response.
 * If any condition not get fullfilled you will get a suitable error message for that particular field.
 * If you want custom message for failure then you can pass 2 keys msgM and msgV for mandatory failure and validation failure respectively.
-* In message you have use a this word which will be replaced by the field name.
+* In message you have use a this word which will be replaced by the field name..Mak"!dW7m!YU8?
