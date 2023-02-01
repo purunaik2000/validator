@@ -1,11 +1,11 @@
-### Validator
+# Validator
 
-# To install this package just write this command and press enter
+## To install this package just write this command and press enter
 ```
 npm i validator
 ```
 
-# The object you want to validate will like this
+## The object you want to validate will like this
 ```
 let obj = {
     "title": "Mr",
@@ -21,7 +21,7 @@ let obj = {
 }
 ```
 
-# The data object you have to pass in validator function will be like this
+## The data object you have to pass in validator function will be like this
 ```
 let data = {
     mandatory: {
