@@ -1,5 +1,5 @@
 # validator
-
+```
 let obj = {
     "title": "Mr",
     "name": "Sakti Kumar Choudhary",
@@ -12,7 +12,8 @@ let obj = {
         "pincode": "  827013"
     }
 }
-
+```
+```
 let data = {
     mandatory: {
         title: obj.title,
@@ -32,3 +33,4 @@ let data = {
     msgM: "Please provide this.",
     msgV: "Please provede valid this."
 }
+```
